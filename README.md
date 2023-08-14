@@ -1,3 +1,3 @@
 # PowerBI_Data_Visualization
 
-![2  TaylorSwiftTour_PowerBI](https://github.com/TheCraftyAnalyst/PowerBI_Data_Visualization/assets/49798046/491b053b-3b5d-4791-bb14-3401415bab2a)
+![2  TaylorSwiftTour_PowerBI](https://github.com/TheCraftyAnalyst/PowerBI_Data_Visualization/assets/49798046/8c1d9da8-110d-4acb-8512-28e67c997811)
